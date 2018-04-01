@@ -1,0 +1,12 @@
+501st Terrain Developer Team
+Roadmap
+
+Project New Kamino
+
+To-do
+1. Create working map version.
+2. Fix bugs with imported Kamino skybox & weather
+3. Finish collision for buildings, walkways, & landing pads.
+4. Recreate iconic setpieces like the Citadel Challenge, hangars, graduation deck, etc.
+5. Bug fixing & finalization.
+6. Release & playtest. Update as necessary.
