@@ -1,0 +1,5 @@
+Republic Commando Remastered: https://mega.nz/#F!5h0iyJZS!bUYa6ILyYMgiQ5-cdOQLnw
+
+PSK/PSA Importer (Blender): https://github.com/Befzz/blender3d_import_psk_psa
+
+PSKX Importer (Blender): https://drive.google.com/file/d/0B28BvX5ZMuuuNGlUREhRSXBVd3M/edit
